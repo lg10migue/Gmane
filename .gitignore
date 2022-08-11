@@ -129,8 +129,13 @@ dmypy.json
 .pyre/
 
 # SQLite3
-*.sqlite
+content.sqlite
+index.sqlite
 
 # Images
 *.JPG
 *.PNG
+
+# Visualization
+gline.js
+gword.js
