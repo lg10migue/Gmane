@@ -65,4 +65,4 @@ fhand.write( "\n];\n" )
 fhand.close()
 
 print( "Output written to gline.js" )
-print( "Open gline.htm to visualize the data" )
+print( "Open gline.html to visualize the data" )
